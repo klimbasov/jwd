@@ -2,7 +2,7 @@ package immutable;
 
 import java.util.Objects;
 
-public class ImmutableExample {
+public final class ImmutableExample {
     private final int primitive;
     private final String string;
     private final int[] primitiveArray;
